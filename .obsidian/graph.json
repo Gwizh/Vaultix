@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "ECONOMIE",
+      "color": {
+        "a": 1,
+        "rgb": 16771584
+      }
+    },
+    {
+      "query": "POLITIQUE",
+      "color": {
+        "a": 1,
+        "rgb": 2706687
+      }
+    },
+    {
+      "query": "LITTERATURE",
+      "color": {
+        "a": 1,
+        "rgb": 16737999
+      }
+    },
+    {
+      "query": "CULTURE",
+      "color": {
+        "a": 1,
+        "rgb": 16719766
+      }
+    },
+    {
+      "query": "HISTOIRE",
+      "color": {
+        "a": 1,
+        "rgb": 7387903
+      }
+    },
+    {
+      "query": "MUSIQUE",
+      "color": {
+        "a": 1,
+        "rgb": 6684927
+      }
+    },
+    {
+      "query": "LANGUES",
+      "color": {
+        "a": 1,
+        "rgb": 4443712
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 0,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 1.1392474166131525,
+  "close": true
+}

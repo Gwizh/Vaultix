@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "e1ab83599c9b5dee",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5efe51a5384cfbe",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Bel-Ami.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d80ff0aa5fc7ac14",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5e479076a2d0fd78",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "595b6737d9e7d16f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Bel",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "322f0bd2aa30b229",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "bea62051a77be6d2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2c373e40495c0c0b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Notes/Bel-Ami.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "df8d806f88722abb",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Notes/Bel-Ami.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "c5efe51a5384cfbe",
+  "lastOpenFiles": [
+    "Notes/Une Vie.md",
+    "EnCours/L'armée des ombres.md",
+    "EnCours/Léon.md",
+    "EnCours/Les Tontons flingueurs.md",
+    "Notes/Le Fabuleux Destin d'Amélie Poulain.md",
+    "Notes/La Haine.md",
+    "EnCours/Classement des films français.md",
+    "Notes/CCMN1 - De la lumière sur Curcumana.md",
+    "Templates/Film.md",
+    "EnCours/Notre-Dame de Paris.md"
+  ]
+}

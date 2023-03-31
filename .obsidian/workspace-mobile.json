@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "e1ab83599c9b5dee",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ed796f659be4d38",
+        "type": "split",
+        "children": [
+          {
+            "id": "26bd3b4d24d0a762",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "72d0f1f4e3013c30",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Constant/Lectures d'essais récents.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "837ea42113aaac39",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3294b09bdfb20ae1",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9225334c108a2f39",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d4ba81c6f69724ad",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "683f13f83cba44da",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "78ab8f2986bd05e9",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "1f3e637a7479d615",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "12bce02b76a9e72e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Constant/Lectures d'essais récents.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b6ea2fa7f9459c06",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Constant/Lectures d'essais récents.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "72d0f1f4e3013c30",
+  "lastOpenFiles": [
+    "Constant/Lectures sur la philosophie et l'économie.md",
+    "Constant/Lectures sur l'histoire.md",
+    "Constant/Lectures sur le socialisme et le communisme.md",
+    "Constant/Lectures de la littérature française.md",
+    "Notes/Constitution de la Ve République.md",
+    "EnCours/Projets en cours.md",
+    "EnCours/Sylvie.md",
+    "Notes/Bel-Ami.md",
+    "EnCours/La Fortune des Rougon.md",
+    "Finitions/Les Liaisons Dangereuses.md"
+  ]
+}

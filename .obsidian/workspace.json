@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "e1ab83599c9b5dee",
+    "type": "split",
+    "children": [
+      {
+        "id": "386a717976fe051f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07d7eb929b0fe606",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Constant/Lectures sur le socialisme et le communisme.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "55ab65d7acee0317",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6aa029feb7dca5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d32cc8c2f5253f48",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d919031ab421523c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5b21ec783dd9ab61",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4e7f3183b650146",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08b0d2c698e595c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Constant/Lectures sur le socialisme et le communisme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7079fff53d3dc877",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Constant/Lectures sur le socialisme et le communisme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "efbff9beeb6827da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "07d7eb929b0fe606",
+  "lastOpenFiles": [
+    "Constant/Lectures sur la philosophie.md",
+    "Constant/Lectures sur le socialisme et le communisme.md",
+    "Constant/Lectures sur la communication.md",
+    "Constant/Lectures sur l'histoire, l'économie et la politique.md",
+    "Constant/Lectures de la littérature française.md",
+    "Constant/Lectures d'essais récents.md",
+    "Constant/Classement des films français.md",
+    "Recherches/Féminisme.canvas",
+    "Untitled.md",
+    "Recherches",
+    "README.md",
+    "Notes/2- Cumulomalus ! v6.wav",
+    "Notes/1- Lune de Mercure v4.wav",
+    "Notes/'Humans Are Not Equal' - The Dishonest History of Race.md",
+    "Projects/Mes Idées Élémentaires/Mes Idées Élémentaires.md",
+    "Projects/Adam/Adam M - Chapitre 2.md",
+    "EnCours/MIE1.md",
+    "Projects/Pirate Óód.md",
+    "EnCours/Projet d'Adam.md",
+    "EnCours/Chat GPTing COTR.md",
+    "EnCours/Projets en cours.md",
+    "Projects/Sa Vie de Zéro/Concentré - brouillon.md",
+    "Projects/Sa Vie de Zéro/Présentation de l'entreprise.md",
+    "Projects/Sa Vie de Zéro/Sa vie de zéro.sync-conflict-20220918-131441-ULOIFPN.md",
+    "Projects/Sa Vie de Zéro/Sa vie de zéro.md"
+  ]
+}

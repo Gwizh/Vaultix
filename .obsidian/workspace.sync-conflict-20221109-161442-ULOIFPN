@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "e1ab83599c9b5dee",
+    "type": "split",
+    "children": [
+      {
+        "id": "72d0f1f4e3013c30",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "EnCours/MAXIDENT.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "55ab65d7acee0317",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6aa029feb7dca5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d32cc8c2f5253f48",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d919031ab421523c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5b21ec783dd9ab61",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4e7f3183b650146",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08b0d2c698e595c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "EnCours/MAXIDENT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7079fff53d3dc877",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "EnCours/MAXIDENT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "efbff9beeb6827da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "72d0f1f4e3013c30",
+  "lastOpenFiles": [
+    "Notes/Décroissance.md",
+    "Notes/Gwizh.md",
+    "EnCours/MAXIDENT.md",
+    "Templates/Texte.md",
+    "Ressources/Histoire populaire des impôts (12)  ARTE 720 x 1280.mp4",
+    "Ressources/Dans la tête de Boris Johnson  ARTE 480 x 854.mp4",
+    "EnCours/Apnée.md",
+    "Notes/Deux Poids Deux Mesures.md",
+    "Notes/Bonne Pomme.md",
+    "MOC/MUSIQUE.md"
+  ]
+}

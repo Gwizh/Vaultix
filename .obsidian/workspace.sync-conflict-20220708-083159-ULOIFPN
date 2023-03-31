@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "e1ab83599c9b5dee",
+    "type": "split",
+    "children": [
+      {
+        "id": "8298c0476166a618",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "EnCours/Assimil.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f1782b369c0eb8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ffcac4de92bba08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4c5200ff3b8cb7e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "55e9564e006aa20c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "63f7939111cd4be2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d60a35b863d4799",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54511d28843caa78",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "EnCours/Assimil.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba75a2e4d5acb4e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "EnCours/Assimil.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7867ad7b56aa2a8d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8298c0476166a618",
+  "lastOpenFiles": [
+    "EnCours/Assimil.md",
+    "Notes/86 - Der unerwartete Gast.md",
+    "MOC/LANGUES.md",
+    "Notes/Au Royaume-Uni, la chute de Johnson laisse un Parti conservateur exsangue.md",
+    "Notes/CULTURE.md",
+    "Templates/Album.md",
+    "Notes/Bonne Pomme.md",
+    "Notes/3- Sur un Fil v4.wav.md",
+    "Notes/Guerre d'Algérie.md",
+    "Ressources/Mélenchon contre Le Maire - le gestionnaire, c’est moi !.md"
+  ]
+}

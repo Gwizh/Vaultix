@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "e1ab83599c9b5dee",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b0a91df72a92d6d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Filature de l'Esprit.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8dfdff6a2ec3851",
+    "type": "split",
+    "children": [
+      {
+        "id": "74f26b6258bc9a22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c53efb813e3aa0fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cfb2ded95efa1b65",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5068c908b5c87156",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb959c2c092fbbfb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "980895eb38931e2d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Filature de l'Esprit.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4559915c27213ed3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Filature de l'Esprit.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc52fbca7f583bfe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5b0a91df72a92d6d",
+  "lastOpenFiles": [
+    "Notes/Filature de l'Esprit.md",
+    "Notes/Un Rêve en Embuscade.md",
+    "Notes/Sur un Fil.md",
+    "MOC/MUSIQUE.md",
+    "Notes/90 - Fit, schön und gesund.md",
+    "Notes/Cumulomalus !.md",
+    "Notes/Lune de Mercure.md",
+    "Notes/Cristal Clair.md",
+    "Notes/89 - Zurück nach Hause.md",
+    "EnCours/ALIRE.md"
+  ]
+}

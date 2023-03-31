@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "e1ab83599c9b5dee",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5efe51a5384cfbe",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "EnCours/Asterix et Obélix - mission Cléopâtre.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b96370734711d704",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "23ce8054cc437b7b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "63b1e6efd537718b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ea93e7a0be0364bf",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "3f233975cf009257",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "084fe2222ce433ef",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "EnCours/Asterix et Obélix - mission Cléopâtre.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "cad6bbb16b75f94a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "EnCours/Asterix et Obélix - mission Cléopâtre.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "c5efe51a5384cfbe",
+  "lastOpenFiles": [
+    "EnCours/Le trou.md",
+    "Notes/ARLETTE LAGUILLER - UNE RÉVOLUTIONNAIRE TRÈS SECRÈTE.md",
+    "EnCours/95 - Leise bitte !.md",
+    "EnCours/L'Armée des ombres.md",
+    "Notes/Le Fabuleux Destin d'Amélie Poulain.md",
+    "EnCours/Notre-Dame de Paris.md",
+    "Notes/La Haine.md",
+    "Templates/Film.md",
+    "Notes/Allemand Duolingo.md",
+    "Notes/CCMN1 - De la lumière sur Curcumana.md"
+  ]
+}

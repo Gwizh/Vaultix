@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "e1ab83599c9b5dee",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5efe51a5384cfbe",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "EnCours/94 - Liebes Tagebuch.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb301b1bcb769c48",
+    "type": "split",
+    "children": [
+      {
+        "id": "85ef1099fcaf3bb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0ce1fa48e62e8f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ddd8d62eef2b3710",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b9bd1d2d1db0735d",
+    "type": "split",
+    "children": [
+      {
+        "id": "15b5537c33f57241",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52a85b1878bae9c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "EnCours/94 - Liebes Tagebuch.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "174e090c87c68795",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "EnCours/94 - Liebes Tagebuch.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e0f0c2c869f69606",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c5efe51a5384cfbe",
+  "lastOpenFiles": [
+    "EnCours/93 - Weg mit dem Handy.md",
+    "Notes/De la lumière sur Curcumana.md",
+    "EnCours/Curcumana 2.md",
+    "Notes/92 - Ich verstehe nichts.md",
+    "Ressources/Assimil.md",
+    "Notes/91 - Wiederholung.md",
+    "Notes/Deux Poids Deux Mesures.md",
+    "Templates/Texte.md",
+    "MOC/MUSIQUE.md",
+    "Notes/Filature de l'Esprit.md"
+  ]
+}

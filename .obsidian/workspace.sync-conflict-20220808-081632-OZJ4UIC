@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "e1ab83599c9b5dee",
+    "type": "split",
+    "children": [
+      {
+        "id": "72d0f1f4e3013c30",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "EnCours/Classement des films français.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93ed787c77ab0b94",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c4a09dfbc22e999d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "38e413e1f319df16",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "1ffd494dab49dc2d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "cad64f1221eca513",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3714f5012c92d4a1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "EnCours/Classement des films français.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "95b9be622fa597ed",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "EnCours/Classement des films français.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "72d0f1f4e3013c30",
+  "lastOpenFiles": [
+    "EnCours/Le dîner de cons.md",
+    "EnCours/ALIRE.md",
+    "Notes/Pierre-Joseph Proudhon.md",
+    "EnCours/La Commune de 1871 - Que sais je.md",
+    "EnCours/Figures du communisme (juste l'intro).md",
+    "EnCours/La Commune de Paris.md",
+    "EnCours/Histoire de la France au XXe Siècle - Livre 3.md",
+    "EnCours/Classement des films français.md",
+    "EnCours/Asterix et Obélix - mission Cléopâtre.md",
+    "EnCours/La Cité de la peur.md"
+  ]
+}

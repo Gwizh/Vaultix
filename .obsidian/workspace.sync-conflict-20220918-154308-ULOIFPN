@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "e1ab83599c9b5dee",
+    "type": "split",
+    "children": [
+      {
+        "id": "635edf7ca3367711",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e21231a19ca24909",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ec085dbeb540b60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3dc5724ae0c0e0b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7e3e850607e82833",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "61ce04e2c8507993",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4f1be77b5e996b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d97abc02d76265f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40a0e4f7ee383c68",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b3db68eafa0f45d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "635edf7ca3367711",
+  "lastOpenFiles": [
+    "Ressources/Dans la tête de Boris Johnson  ARTE 480 x 854.mp4",
+    "Constant/Lectures sur le socialisme et le communisme.md",
+    "Notes/Principe du communisme.md",
+    "Constant/Lectures sur l'histoire, la philosophie et l'économie.md",
+    "Constant/Lectures de la littérature française.md",
+    "EnCours/Socialisme utopique et socialisme scientifique.md",
+    "Notes/Notre-Dame de Paris.md",
+    "Constant/Classement des films français.md",
+    "Notes/Les Tontons flingueurs.md",
+    "Notes/L'armée des ombres.md"
+  ]
+}
