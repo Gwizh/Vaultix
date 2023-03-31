@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"796e5bc0ca05bae5","x":-845,"y":-280,"width":2296,"height":1080,"type":"group","label":"Féminisme"},
+		{"id":"c48ac3cd2bfdddbd","x":984,"y":-1019,"width":936,"height":1179,"type":"group","label":"Racisme"},
+		{"id":"a1bbae85eea4747f","x":-800,"y":-1150,"width":920,"height":721,"type":"group","label":"Police"},
+		{"id":"422d2e64eb6dfff8","x":1080,"y":-720,"width":371,"height":77,"type":"text","text":"### Les Damnés de la Terre - Frantz Fanon"},
+		{"id":"adff46c2e3ad030b","x":1080,"y":-920,"width":307,"height":50,"type":"text","text":"### Découvrir Fanon"},
+		{"id":"6e2119ed88ca357b","x":1109,"y":-120,"width":250,"height":80,"type":"text","text":"### Un féminisme décolonial"},
+		{"id":"44fc8531be437953","x":-671,"y":-837,"width":250,"height":60,"type":"text","text":"### Police (avec Lordon :))"},
+		{"id":"b9df0717c1299793","x":-698,"y":131,"width":338,"height":69,"type":"text","text":"### Sortir de l'hétérosexualité"}
+	],
+	"edges":[]
+}
